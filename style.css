@@ -1,0 +1,31 @@
+
+/* css */
+
+img {
+    border-radius: 8px;
+}
+h3 {
+    font-size: 28px;
+    padding-bottom: 8px;
+}
+p {
+    color: #919191;
+    padding-bottom: -24px;
+}
+.bg-second {
+    background-color: #F1F1F1;
+}
+.text {
+    color: #3B3B3B;
+    font-size: 16px;
+    padding: 4px 12px;
+    border-radius: 16px;
+}
+.card {
+    border: 0;
+    padding-bottom: 90px;
+}
+.card-title {
+    padding-left: 16px;
+    padding-top: 16px;
+}
